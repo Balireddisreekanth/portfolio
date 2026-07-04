@@ -25,8 +25,8 @@ const Hero = () => {
             </h1>
             
             <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto lg:mx-0 animate-slideUp animation-delay-200">
-            Full-Stack Web Developer with 2 years of experience in building scalable web applications using JavaScript, React.js, and Node.js. Skilled in responsive design, RESTful APIs, and optimizing user experiences to deliver high-performance, maintainable solutions aligned with business goals.
-            </p>
+  Full-Stack Web Developer with <span className="font-semibold text-teal-600 dark:text-teal-400">3.5+ years of experience</span> in designing and developing scalable web applications using React.js, Node.js, JavaScript, PHP, MySQL, and MongoDB. Experienced in building ERP systems, e-commerce platforms, business websites, and RESTful APIs while delivering responsive, secure, and high-performance solutions.
+</p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start animate-slideUp animation-delay-300">
               <a 
@@ -63,9 +63,11 @@ const Hero = () => {
                 />
               </div>
               <div className="absolute top-0 -right-4 bg-white dark:bg-gray-800 p-4 rounded-lg shadow-lg animate-bounce-slow">
-                <div className="text-amber-500 font-bold">2 years</div>
-                <div className="text-xs text-gray-600 dark:text-gray-300">Experience</div>
-              </div>
+  <div className="text-amber-500 font-bold">3.5+ Years</div>
+  <div className="text-xs text-gray-600 dark:text-gray-300">
+    Experience
+  </div>
+</div>
               {/* <div className="absolute -bottom-4 -left-4 bg-white dark:bg-gray-800 p-4 rounded-lg shadow-lg animate-bounce-slow animation-delay-500">
                 <div className="text-teal-500 font-bold">50+</div>
                 <div className="text-xs text-gray-600 dark:text-gray-300">Projects</div>

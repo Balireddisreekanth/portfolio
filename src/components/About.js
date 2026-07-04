@@ -14,8 +14,7 @@ const About = () => {
           </h2>
           <div className="w-24 h-1 bg-teal-500 mx-auto mb-8 rounded-full"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            I'm a passionate developer with a focus on creating exceptional digital experiences.
-            Here's a glimpse into my background and what drives me.
+            I'm a Full Stack Web Developer with 3.5+ years of experience in designing and developing modern web applications. I enjoy building responsive, high-performance solutions that provide excellent user experiences.
           </p>
         </div>
 
@@ -25,7 +24,7 @@ const About = () => {
               My Journey
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-              I began my development journey 2 years ago, driven by a passion for transforming creative ideas into functional and impactful digital products. Since then, I’ve collaborated with clients and teams to build solutions that are both effective and user-friendly.
+            I have over 3.5+ years of experience in web development, specializing in building responsive, scalable, and user-friendly applications. Throughout my journey, I have worked on ERP systems, e-commerce platforms, corporate websites, and non-profit organization websites using modern web technologies.
             </p>
             <p className="text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
               My approach blends solid technical skills with a strong focus on user-centered design. I believe the best digital experiences are not only reliable and high-performing but also intuitive and enjoyable to use.
@@ -38,8 +37,8 @@ const About = () => {
                   <h4 className="font-bold text-gray-900 dark:text-white">Experience</h4>
                 </div>
                 <p className="text-gray-600 dark:text-gray-300 text-sm">
-                  2 years of professional development experience
-                </p>
+  3.5+ years of professional web development experience
+</p>
               </div>
               
               <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg hover:shadow-md transition-shadow">
